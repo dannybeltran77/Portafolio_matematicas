@@ -7,7 +7,7 @@
 
 ### 🔬 Aprendizaje práctico experimental (APE)
 
-[Resolución de ejercicios](https://drive.google.com/drive/folders/1ZuyWEtQbebZDGALNFat5T5txcc0lnxm1)
+[Resolución de ejercicios](https://drive.google.com/drive/folders/1ZuyWEtQbebZDGALNFat5T5txcc0lnxm1](https://drive.google.com/file/d/13uRfyWGyQ41NKcwwK5z_b6BOBJdeaobj/view?usp=sharing)
 
 
 ### 🎓 Aprendizaje en contacto con el docente (ACD) 
