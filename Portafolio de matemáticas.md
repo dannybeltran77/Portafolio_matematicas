@@ -1,5 +1,4 @@
-# 📚 Índice
-
+# Contenido
 
 ### 🔬 Aprendizaje práctico experimental (APE)
 
