@@ -15,16 +15,16 @@
 ---
 
 ### 📚 **Asignatura**
-> **Teoría de la Programación**
+> **Matemáticas Discretas**
 
 ### 🏷 **Unidad**
 > **UNO**
 
 ### 📝 **Tema**
-> **Portafolio Digital de Aprendizaje: Teoría de la Programación**
+> **Portafolio Digital**
 
 ### 👩‍🏫 **Docente**
-> **Dra. Lissette López Faicán**
+> **ING. Mario Cueva**
 
 ### 👨‍🎓 **Estudiante**
 > **Danny Fernando Beltrán**
